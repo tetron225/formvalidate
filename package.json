@@ -1,0 +1,26 @@
+{
+  "name": "formvalidate",
+  "version": "1.0.0",
+  "description": "prettier commands ----------------------------- format files",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tetron225/formvalidate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tetron225/formvalidate/issues"
+  },
+  "homepage": "https://github.com/tetron225/formvalidate#readme",
+  "devDependencies": {
+    "css-loader": "^7.1.2",
+    "html-loader": "^5.1.0",
+    "html-webpack-plugin": "^5.6.3",
+    "webpack": "^5.98.0",
+    "webpack-cli": "^6.0.1"
+  }
+}
